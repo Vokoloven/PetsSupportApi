@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theIvanChornyi/PetsSupportApi.git"
+    "url": "git+https://github.com/vokoloven/PetsSupportApi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theIvanChornyi/PetsSupportApi/issues"
+    "url": "https://github.com/vokoloven/PetsSupportApi/issues"
   },
-  "homepage": "https://github.com/theIvanChornyi/PetsSupportApi#readme",
+  "homepage": "https://github.com/vokoloven/PetsSupportApi#readme",
   "devDependencies": {
     "eslint": "7.19.0",
     "eslint-config-prettier": "^8.3.0",
